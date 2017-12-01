@@ -69,7 +69,7 @@
     "help-me": "^1.0.1",
     "inherits": "^2.0.3",
     "minimist": "^1.2.0",
-    "mqtt-packet": "git@github.com:ophentis/mqtt-packet.git",
+    "mqtt-packet": "https://github.com/ophentis/MQTT.js.git",
     "pump": "^2.0.0",
     "readable-stream": "^2.3.3",
     "reinterval": "^1.1.0",
